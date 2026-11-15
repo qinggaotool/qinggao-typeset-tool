@@ -6,15 +6,16 @@
 
 ## 演示视频
 
-<video src="paiban_1080.mp4" width="100%" controls></video>
+<video src="https://raw.githubusercontent.com/qinggaotool/qinggao-typeset-tool/main/paiban_1080.mp4" width="100%" controls></video>
 
 ## 界面预览
 
-![青稿魔法园 v2.0.18 界面](PixPin_2026-11-14_18-35-25.jpg)
+![青稿魔法园 v2.1.3 界面](v2.1.3-screenshot.jpg)
 
 ## 功能特性
 
 - **一键论文排版**：围绕 Word 工作，按论文格式要求一键调整段落、行距、标题层级等格式，无需手动逐项设置。
+- **窗口夹（窗口挂起）**：把当前软件 / 文档窗口一键收起挂起，腾出桌面空间；需要时点窗口卡片取回，支持自动挂起与一键释放所有窗口。
 - **截图挂起来**：截图后挂起，用时直接拖到 Word / 聊天框，也可贴在桌面上备用。
 - **文字挂起来**：复制文字后挂起，用时拖到 Word / 聊天框，减少来回切换窗口。
 - **本地运行**：文档在本机处理，不上传到云端服务器，降低论文外泄风险。
@@ -24,8 +25,8 @@
 
 前往 [Releases 页面](https://github.com/qinggaotool/qinggao-typeset-tool/releases/latest) 下载最新 Windows 安装包：
 
-- 文件名：`v2.0.18.exe`
-- 版本：v2.0.18
+- 文件名：`v2.1.3.exe`
+- 版本：v2.1.3
 - 适用系统：Windows
 
 > 若 GitHub 下载较慢，可通过官网 https://www.qinggao.net/ 获取。
@@ -39,7 +40,7 @@
 
 ## 使用说明（简述）
 
-1. 在 Releases 下载并运行 `v2.0.18.exe`。
+1. 在 Releases 下载并运行 `v2.1.3.exe`。
 2. 打开需要排版的 Word 文档。
 3. 在工具中选择对应排版功能，按提示完成格式调整。
 4. 排版后通读检查目录、页码、参考文献等细节，确认符合要求后再保存提交。
