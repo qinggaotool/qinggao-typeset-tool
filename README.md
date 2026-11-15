@@ -6,7 +6,7 @@
 
 ## 演示视频
 
-[▶ 点击观看论文排版演示视频](https://raw.githubusercontent.com/qinggaotool/qinggao-typeset-tool/main/paiban_1080.mp4)
+[▶ 点击观看论文排版演示视频（内嵌在线播放）](https://github.com/qinggaotool/qinggao-typeset-tool/releases/tag/v2.1.3)
 
 ## 界面预览
 
